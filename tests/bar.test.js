@@ -1,4 +1,4 @@
-const bar = require(`../src/bar`);
+import bar from '../src/bar';
 
 describe(`Bar`, () => {
 	test(`test bar`, () => {

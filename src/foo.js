@@ -1,1 +1,1 @@
-module.exports = (a) => a + 1;
+export default (a) => a + 1;

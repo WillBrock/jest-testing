@@ -1,4 +1,4 @@
-const foo = require(`../src/foo`);
+import foo from '../src/foo';
 
 describe(`Foo`, () => {
 	test(`test`, () => {
